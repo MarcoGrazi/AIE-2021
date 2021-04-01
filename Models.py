@@ -1,7 +1,7 @@
 import math as M
 import random as R
 
-# TODO capire come implementare il softmax al ritorno
+
 class Model:
     G = []   # model graph
     L = []   # layers of neurons
